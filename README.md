@@ -1,4 +1,4 @@
-# SD Card Inspector
+# SD Card Tester
 This simple library is for testing the status of a SD card.  Current use case is for verifying if a SD card is encrypted.  If the card is encrypted the card type will be detected but it will not be able to enumerate over the volume.
 
 # Using the application
